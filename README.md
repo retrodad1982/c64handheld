@@ -1,4 +1,8 @@
 # Commodore 64 Handheld
+
+![Project Screenshot]
+(https://github.com/retrodad1982/c64handheld/releases/download/C64/Title.jpg)
+
 Like many Dad's I often find myself hanging around taking my kids to clubs and activities and rather than doom scroll, wouldn't it be great if I could play my favourite Commododore 64 games, however my existing C64 setup just isn’t very portable :-).
 
 Inspired by Kevin Noki's DIY Commodore 64 laptop, I decided to try and create my own C64 Handheld.  Although I have an Anbernic handheld games console, the lack of a proper keyboard means playing C64 games can be clunky.  I looked at UNI64's UHELD64 which is really cool, but the price was out of my budget, plus the screen was a little on the small side for my ageing eyes.
