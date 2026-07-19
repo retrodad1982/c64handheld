@@ -1,7 +1,6 @@
 # Commodore 64 Handheld
 
-![Project Screenshot]
-(https://github.com/retrodad1982/c64handheld/releases/download/C64/Title.jpg)
+![Project Screenshot](https://github.com/retrodad1982/c64handheld/releases/download/C64/Title.jpg)
 
 Like many Dad's I often find myself hanging around taking my kids to clubs and activities and rather than doom scroll, wouldn't it be great if I could play my favourite Commododore 64 games, however my existing C64 setup just isn’t very portable :-).
 
