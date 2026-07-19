@@ -6,7 +6,7 @@ Like many Dad's I often find myself hanging around taking my kids to clubs and a
 
 Inspired by Kevin Noki's DIY Commodore 64 laptop, I decided to try and create my own C64 Handheld.  Although I have an Anbernic handheld games console, the lack of a proper keyboard means playing C64 games can be clunky.  I looked at UNI64's UHELD64 which is really cool, but the price was out of my budget, plus the screen was a little on the small side for my ageing eyes.
 
-The handheld is based around a Raspberry Pi 3B, becauses I just happened to have one lying around and uses the Pi Lizard's customer image which boots straight into the VICE64 emulator.  The underlying OS is way out of date by now, but I don't intend to do an online banking using it so I think I'll be just fine ;-).  I did look at the amazing BMC64, however I haven't been able to identify a small LCD that works properly at 50Mhz (if you are aware of one let me know!).  
+The handheld is based around a Raspberry Pi 3B, becauses I just happened to have one lying around and uses the Pi Lizard's custom image which boots straight into the VICE64 emulator.  The underlying OS is way out of date by now, but I don't intend to do an online banking using it so I think I'll be just fine ;-).  I did look at the amazing BMC64, however I haven't been able to identify a small LCD that works properly at 50Mhz (if you are aware of one let me know!).  
 
 The main keyboard is provided by a 3rd party Xbox ChatPad, however this doesn't include F keys or arrow keys so I added extras using tactile switches.  I originally looked at Solder Party's amazing "KeebDeck" but it's now been out of stock for 6 months...Game controller is provided by a 3rd party USB SNES Gamepad.  I included C64 joystick ports, just because I could, which seems ridiculous given the screen size.  If I can find a small enough HDMI splitter I'd like to add HDMI out at somepoint meaning you could play two player games on a big TV.  The extra keys and C64 joystick ports are handled by a Raspberry Pi PICO with a custom firmware.
 
@@ -28,7 +28,7 @@ Inspiration:
 
 [Kevin's Noki's C64 Laptop](https://www.youtube.com/watch?v=H5QQ0ECfwyE&t=712s&pp=ygUVa2V2aW4gbm9raSBjNjQgbGFwdG9w)
 
-[Click here to view the project](https://example.com)
+[NewdlesMusic's Mini 1701 monitor](https://www.youtube.com/watch?v=vAG5QTZ8Bxw&t=41s&pp=ygUTbWluaSBjb21tb2RvcmUgMTcwMQ%3D%3D) - the reason I bought a 3D print :-)
 
 [Click here to view the project](https://example.com)
 [Click here to view the project](https://example.com)
