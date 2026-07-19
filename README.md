@@ -21,11 +21,15 @@ This is a DIY, educational, hobbyist project.  It is not associated with, or end
 **Links**
 
 For the Project:
+
 [PiLizards C64 image for RaspberryPi](https://pilizard.blogspot.com/2017/11/the-pi-lizards-64-images.html)
 
 Inspiration: 
+
 [Kevin's Noki's C64 Laptop](https://www.youtube.com/watch?v=H5QQ0ECfwyE&t=712s&pp=ygUVa2V2aW4gbm9raSBjNjQgbGFwdG9w)
+
 [Click here to view the project](https://example.com)
+
 [Click here to view the project](https://example.com)
 [Click here to view the project](https://example.com)
 
