@@ -27,10 +27,16 @@ For the Project:
 Inspiration: 
 
 [Kevin's Noki's C64 Laptop](https://www.youtube.com/watch?v=H5QQ0ECfwyE&t=712s&pp=ygUVa2V2aW4gbm9raSBjNjQgbGFwdG9w)
-
 [NewdlesMusic's Mini 1701 monitor](https://www.youtube.com/watch?v=vAG5QTZ8Bxw&t=41s&pp=ygUTbWluaSBjb21tb2RvcmUgMTcwMQ%3D%3D) - the reason I bought a 3D print :-)
 
-[Click here to view the project](https://example.com)
-[Click here to view the project](https://example.com)
-
 **Credits**
+
+[Xbox ChatPad Case by Razzer09](https://www.printables.com/model/520360-controller-keyboard-for-xbox-series-xsoneone-s)
+[SNES Controller Case by Michael B Doherty](https://www.printables.com/model/282302-snes-controller/files)
+
+
+
+
+
+
+
