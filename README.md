@@ -18,6 +18,10 @@ I've created a YouTube video showing most of the build process, as well as a PDF
 
 This is a DIY, educational, hobbyist project.  It is not associated with, or endorsed by Commodore International or Retro Games Limited.  This is intended as a fun, not for profit,  “Open Source” project.  This guide and all associated files are provided “as is” and without warranty.
 
+**Build Guide**
+
+A build video is available on YouTube.  I'm working on a more detailed PDF version which includes wiring diagrams and instructions on how to flash the Raspberry Pi 3 and Pi Pico
+
 **Links**
 
 [Kevin's Noki's C64 Laptop](https://www.youtube.com/watch?v=H5QQ0ECfwyE&t=712s&pp=ygUVa2V2aW4gbm9raSBjNjQgbGFwdG9w)
@@ -32,9 +36,7 @@ This is a DIY, educational, hobbyist project.  It is not associated with, or end
 
 [SNES Controller Case by Michael B Doherty](https://www.printables.com/model/282302-snes-controller/files)
 
-**Build Guide**
 
-A build video is available on YouTube.  I'm working on a more detailed PDF version which includes wiring diagrams and instructions on how to flash the Raspberry Pi 3 and Pi Pico
 
 
 
