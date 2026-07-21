@@ -20,18 +20,15 @@ This is a DIY, educational, hobbyist project.  It is not associated with, or end
 
 **Links**
 
-For the Project:
-
-[PiLizards C64 image for RaspberryPi](https://pilizard.blogspot.com/2017/11/the-pi-lizards-64-images.html)
-
-Inspiration: 
-
 [Kevin's Noki's C64 Laptop](https://www.youtube.com/watch?v=H5QQ0ECfwyE&t=712s&pp=ygUVa2V2aW4gbm9raSBjNjQgbGFwdG9w)
+
 [NewdlesMusic's Mini 1701 monitor](https://www.youtube.com/watch?v=vAG5QTZ8Bxw&t=41s&pp=ygUTbWluaSBjb21tb2RvcmUgMTcwMQ%3D%3D) - the reason I bought a 3D print :-)
 
 **Credits**
+[PiLizards C64 image for RaspberryPi](https://pilizard.blogspot.com/2017/11/the-pi-lizards-64-images.html)
 
 [Xbox ChatPad Case by Razzer09](https://www.printables.com/model/520360-controller-keyboard-for-xbox-series-xsoneone-s)
+
 [SNES Controller Case by Michael B Doherty](https://www.printables.com/model/282302-snes-controller/files)
 
 
