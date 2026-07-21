@@ -10,7 +10,7 @@ The handheld is based around a Raspberry Pi 3B, becauses I just happened to have
 
 The main keyboard is provided by a 3rd party Xbox ChatPad, however this doesn't include F keys or arrow keys so I added extras using tactile switches.  I originally looked at Solder Party's amazing "KeebDeck" but it's now been out of stock for 6 months...Game controller is provided by a 3rd party USB SNES Gamepad.  I included C64 joystick ports, just because I could, which seems ridiculous given the screen size.  If I can find a small enough HDMI splitter I'd like to add HDMI out at somepoint meaning you could play two player games on a big TV.  The extra keys and C64 joystick ports are handled by a Raspberry Pi PICO with a custom firmware.
 
-My 3D printing STL files and customer firmware for the Raspberry Pi Pico are provided here for anyone who would like to have a go at building their own C64 Handheld - if you do, please send me some photos, it would be great to feature them here.  If anyone takes my work and improves on it, that would also be great, and I'd like to post any remixes or revisions here - get in touch!
+My 3D printing STL files and customer firmware for the Raspberry Pi Pico are provided here for anyone who would like to have a go at building their own C64 Handheld - if you do, please send me some photos to contactretrodad1982@gmail.com, it would be great to feature them here.  If anyone takes my work and improves on it, that would also be great, and I'd like to post any remixes or revisions here - get in touch!
 
 I've created a YouTube video showing most of the build process, as well as a PDF build guide which includes wiring diagrams and a bill of materials.
 
@@ -25,12 +25,16 @@ This is a DIY, educational, hobbyist project.  It is not associated with, or end
 [NewdlesMusic's Mini 1701 monitor](https://www.youtube.com/watch?v=vAG5QTZ8Bxw&t=41s&pp=ygUTbWluaSBjb21tb2RvcmUgMTcwMQ%3D%3D) - the reason I bought a 3D print :-)
 
 **Credits**
+
 [PiLizards C64 image for RaspberryPi](https://pilizard.blogspot.com/2017/11/the-pi-lizards-64-images.html)
 
 [Xbox ChatPad Case by Razzer09](https://www.printables.com/model/520360-controller-keyboard-for-xbox-series-xsoneone-s)
 
 [SNES Controller Case by Michael B Doherty](https://www.printables.com/model/282302-snes-controller/files)
 
+**Build Guide**
+
+A build video is available on YouTube.  I'm working on a more detailed PDF version which includes wiring diagrams and instructions on how to flash the Raspberry Pi 3 and Pi Pico
 
 
 
