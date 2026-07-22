@@ -2,9 +2,9 @@
 
 ![Project Screenshot](https://github.com/retrodad1982/c64handheld/releases/download/C64/Title.jpg)
 
-Like many Dad's I often find myself hanging around taking my kids to clubs and activities and rather than doom scroll, wouldn't it be great if I could play my favourite Commododore 64 games, however my existing C64 setup just isn’t very portable :-).
+Like many Dad's I often find myself hanging around taking my kids to clubs and activities and rather than doom scroll, wouldn't it be great if I could play my favourite Commododore 64 games wherever I am?
 
-Inspired by Kevin Noki's DIY Commodore 64 laptop, I decided to try and create my own C64 Handheld.  Although I have an Anbernic handheld games console, the lack of a proper keyboard means playing C64 games can be clunky.  I looked at UNI64's UHELD64 which is really cool, but the price was out of my budget, plus the screen was a little on the small side for my ageing eyes.
+Unfortunately, my existing C64 setup just isn’t very portable :-) so inspired by Kevin Noki's DIY Commodore 64 laptop, I decided to try and create my own C64 Handheld.  Although I have an Anbernic handheld games console, the lack of a proper keyboard means playing C64 games can be clunky.  I looked at UNI64's UHELD64 which is really cool, but the price was out of my budget, plus the screen was a little on the small side for my ageing eyes.
 
 The handheld is based around a Raspberry Pi 3B, becauses I just happened to have one lying around and uses the Pi Lizard's custom image which boots straight into the VICE64 emulator.  The underlying OS is way out of date by now, but I don't intend to do an online banking using it so I think I'll be just fine ;-).  I did look at the amazing BMC64, however I haven't been able to identify a small LCD that works properly at 50Mhz (if you are aware of one let me know!).  
 
@@ -14,13 +14,15 @@ My 3D printing STL files and customer firmware for the Raspberry Pi Pico are pro
 
 I've created a YouTube video showing most of the build process, as well as a PDF build guide which includes wiring diagrams and a bill of materials.
 
+Because it's a PI, you can swap out the Pi Lizard/C64 Micro SD card and replace with one containing Raspberry Pi OS, Kali Linux to have your very own C64 themed Cyber deck.  With some small tweaks you can even move the mouse pointer using the gamepad
+
 **Disclaimer**
 
 This is a DIY, educational, hobbyist project.  It is not associated with, or endorsed by Commodore International or Retro Games Limited.  This is intended as a fun, not for profit,  “Open Source” project.  This guide and all associated files are provided “as is” and without warranty.
 
 **Build Guide**
 
-A build video is available on YouTube.  I'm working on a more detailed PDF version which includes wiring diagrams and instructions on how to flash the Raspberry Pi 3 and Pi Pico
+A build video is available on YouTube.  I'm working on a more detailed PDF version which includes wiring diagrams and instructions on how to flash the Raspberry Pi 3 and Pi Pico.  This will appear very soon.
 
 **Links**
 
